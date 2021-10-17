@@ -130,7 +130,7 @@ a:hover {
 }
 
 .sect-pt4 {
-  padding-top: 4rem;
+  padding-top: 1.3rem;
 }
 
 .sect-mt4 {
@@ -145,9 +145,9 @@ a:hover {
 }
 
 /*--/ Title A /--*/
-.title-box {
+/* .title-box {
   margin-bottom: 4rem;
-}
+} */
 
 .title-a {
   font-size: 3rem;
